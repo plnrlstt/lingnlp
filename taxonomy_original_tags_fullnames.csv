@@ -1,0 +1,334 @@
+Language ID,full language name,Cluster
+eng,english,5
+spa,spanish,5
+fra,french,5
+deu,german,5
+zho,chinese,5
+ita,italian,5
+ara,arabic,5
+pol,polish,5
+jpn,japanese,5
+por,portuguese,5
+nld,dutch,5
+kor,korean,5
+vie,vietnamese,5
+ell,modern greek,4
+swe,swedish,5
+dan,danish,4
+bul,bulgarian,4
+hbs,serbo-croatian,5
+rus,russian,5
+fin,finnish,4
+ces,czech,4
+cat,catalan,4
+fas,persian,5
+nor,norwegian,4
+tur,turkish,4
+ron,romanian,4
+tha,thai,4
+est,estonian,4
+heb,hebrew,4
+hin,hindi,4
+lav,latvian,4
+slk,slovak,4
+slv,slovenian,2
+ukr,ukrainian,4
+pus,pushto,2
+eus,basque,4
+lat,latin,4
+lit,lithuanian,4
+hun,hungarian,4
+msa,malay,4
+mkd,macedonian,4
+tam,tamil,4
+urd,urdu,4
+swa,swahili,3
+ben,bengali,4
+cse,czech sign language,0
+hau,hausa,3
+isl,icelandic,2
+gle,irish,2
+pan,panjabi,3
+mal,malayalam,3
+mlt,maltese,2
+nep,nepali,3
+tel,telugu,3
+fry,western frisian,2
+afr,afrikaans,3
+amh,amharic,2
+aze,azerbaijani,3
+guj,gujarati,3
+sin,sinhala,3
+sqi,albanian,3
+ase,american sign language,0
+asm,assamese,3
+bre,breton,3
+cos,corsican,2
+epo,esperanto,3
+glg,galician,3
+gsg,german sign language,0
+kan,kannada,2
+kas,kashmiri,2
+kha,khasi,0
+mni,manipuri,2
+mar,marathi,3
+mon,mongolian,2
+sme,northern sami,2
+ori,oriya,3
+orm,oromo,1
+rom,romany,1
+gla,scottish gaelic,1
+sid,sidamo,0
+som,somali,2
+tir,tigrinya,1
+uig,uighur,2
+uzb,uzbek,4
+cym,welsh,3
+yor,yoruba,2
+tgl,tagalog,3
+lao,lao,2
+kat,georgian,4
+khm,khmer,2
+hat,haitian,3
+ceb,cebuano,4
+ybb,yemba,0
+enm,middle english,0
+zul,zulu,2
+kur,kurdish,3
+lah,lahnda,3
+kaz,kazakh,3
+mxx,mahou,0
+grn,guarani,2
+fil,filipino,0
+fao,faroese,2
+bod,tibetan,2
+trf,trinidadian creole english,0
+tpi,tok pisin,1
+ibo,igbo,2
+bam,bambara,1
+wol,wolof,1
+nhi,zacatlán-ahuacatlán-tepetzintla nahuatl,0
+azz,highland puebla nahuatl,0
+luo,luo,0
+luq,lucumi,0
+man,mandingo,0
+jgo,ngomba,0
+kmj,kumarbhag paharia,0
+kin,kinyarwanda,1
+jav,javanese,2
+san,sanskrit,3
+mjt,sauria paharia,0
+gul,sea island creole english,0
+mkb,mal paharia,0
+aka,akan,2
+abk,abkhazian,2
+ace,achinese,2
+ady,adyghe,1
+gsw,swiss german,3
+ami,amis,1
+anp,angika,1
+arg,aragonese,3
+rki,rakhine,1
+syr,syriac,1
+hye,armenian,3
+rup,macedo-romanian,1
+frp,arpitan,2
+ast,asturian,3
+tay,atayal,1
+atj,atikamekw,1
+ava,avaric,2
+awa,awadhi,1
+aym,aymara,2
+ban,balinese,2
+bak,bashkir,3
+btm,batak mandailing,1
+bbc,batak toba,1
+bar,bavarian,3
+bel,belarusian,3
+bew,betawi,1
+bho,bhojpuri,3
+bpy,bishnupriya,2
+bis,bislama,1
+bug,buginese,2
+mya,burmese,3
+bik,bikol,2
+duw,dusun witu,1
+kau,kanuri,1
+cha,chamorro,1
+cbk,chavacano,2
+che,chechen,3
+chr,cherokee,1
+chy,cheyenne,1
+chu,church slavic,1
+chv,chuvash,3
+ksh,kölsch,2
+cor,cornish,2
+cre,cree,1
+crh,crimean tatar,2
+dag,dagbani,2
+zza,zaza,2
+din,dinka,1
+div,divehi,2
+dzo,dzongkha,1
+chm,mari,2
+egl,emilian,2
+myv,erzya,2
+ewe,ewe,1
+ext,extremaduran,2
+hif,fiji hindi,2
+fij,fijian,1
+fon,fon,1
+gur,farefare,1
+fur,friulian,1
+ful,fulah,2
+gag,gagauz,1
+lug,ganda,1
+gpe,ghanaian pidgin english,2
+glk,gilaki,2
+kok,konkani,2
+gor,gorontalo,2
+got,gothic,1
+gcr,guianese creole french,1
+guw,gun,1
+haw,hawaiian,1
+iba,iban,1
+ido,ido,3
+igl,igala,1
+ilo,iloko,2
+smn,inari sami,2
+inh,ingush,2
+ina,interlingua,2
+ile,interlingue,1
+iku,inuktitut,1
+ipk,inupiaq,1
+jam,jamaican creole english,1
+kbd,kabardian,1
+kbp,kabiyè,1
+kab,kabyle,2
+kal,kalaallisut,1
+xal,kalmyk,2
+krc,karachay-balkar,2
+kaa,kara-kalpak,2
+csb,kashubian,2
+kik,kikuyu,1
+kge,komering,1
+kom,komi,2
+kon,kongo,1
+avk,kotava,2
+kus,kusaal,1
+kir,kirghiz,3
+lld,ladin,3
+lad,ladino,2
+lbe,lak,2
+lez,lezghian,2
+lij,ligurian,2
+lim,limburgan,2
+lin,lingala,2
+lfn,lingua franca nova,1
+olo,livvi,2
+jbo,lojban,1
+lmo,lombard,3
+nds,low german,3
+dsb,lower sorbian,2
+ltz,luxembourgish,3
+mad,madurese,2
+mai,maithili,2
+mlg,malagasy,3
+glv,manx,1
+mri,maori,2
+mzn,mazanderani,3
+xmf,mingrelian,1
+mwl,mirandese,2
+mdf,moksha,2
+mnw,mon,1
+mos,mossi,1
+nqo,n'ko,1
+nhe,eastern huasteca nahuatl,2
+nav,navajo,2
+nap,neapolitan,2
+new,nepal bhasa,3
+nia,nias,1
+pcm,nigerian pidgin,1
+nrf,jèrriais,2
+frr,northern frisian,2
+nso,pedi,2
+nov,novial,1
+nup,nupe-nupe-tako,1
+nya,chichewa,1
+ann,obolo,1
+oci,occitan,3
+ang,old english,2
+oss,ossetian,3
+pwn,paiwan,1
+pfl,pfaelzisch,1
+pli,pali,1
+pam,pampanga,2
+pag,pangasinan,1
+rsk,ruthenian,1
+blk,pa'o karen,2
+pap,papiamento,2
+pdc,pennsylvania german,1
+pcd,picard,2
+pms,piemontese,3
+pnt,pontic,1
+que,quechua,2
+roh,romansh,2
+run,rundi,1
+bua,buriat,1
+rue,rusyn,2
+szy,sakizaya,1
+smo,samoan,1
+sgs,samogitian,2
+sag,sango,1
+sat,santali,2
+srd,sardinian,2
+stq,saterfriesisch,2
+sco,scots,3
+shn,shan,1
+sna,shona,2
+scn,sicilian,2
+szl,silesian,3
+snd,sindhi,2
+nbl,south ndebele,1
+alt,southern altai,1
+dga,southern dagaare,1
+sot,southern sotho,1
+srn,sranan tongo,1
+zgh,standard moroccan tamazight,2
+sun,sundanese,3
+ssw,swati,1
+syl,sylheti,1
+shi,tachelhit,2
+tah,tahitian,1
+tdd,tai nüa,1
+tgk,tajik,3
+tly,talysh,2
+trv,sediq,1
+tat,tatar,3
+tet,tetum,1
+tig,tigre,1
+ton,tonga,1
+tso,tsonga,1
+tsn,tswana,1
+tcy,tulu,2
+tum,tumbuka,1
+tuk,turkmen,2
+tyv,tuvinian,2
+kcg,tyap,1
+udm,udmurt,2
+hsb,upper sorbian,2
+ven,venda,1
+vec,venetian,3
+vep,veps,2
+vol,volapük,3
+wln,walloon,2
+war,waray,3
+guc,wayuu,1
+bdr,west coast bajau,1
+vls,vlaams,2
+hyw,western armenian,2
+xho,xhosa,1
+sah,yakut,2
+yid,yiddish,2
+zea,zeeuws,2
+zha,zhuang,1

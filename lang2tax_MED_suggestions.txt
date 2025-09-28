@@ -1,0 +1,983 @@
+                      Original Name                   Best Match ISO 639-3  Distance
+0                             kàsim                          Kim       kia         2
+1                       belorussian                   Belarusian       bel         2
+2                  türk isaret dili                 Kosarek Yale       kkl         9
+3                           shompen                    Shom Peng       sii         2
+4                          nancowry                      Nancere       nnc         3
+5                             izhor                       Birhor       biy         2
+6                           mirniny                      Mirning       gmr         1
+7                    kangiryuarmiut                    Sangisari       sgr         7
+8              berbice dutch creole         Afro-Seminole Creole       afs        11
+9                           jingpho                      Singpho       sgp         1
+10                           banggi                       Bonggi       bdg         1
+11                         matuumbi                      Matumbi       mgw         1
+12                             bété                         Baré       bae         2
+13                          pintupi                      Bintulu       bny         3
+14                           gahuku                        Akuku       ayk         2
+15                           sarcee                         Arem       aem         3
+16                       yir yiront                   Yir Yoront       yyr         1
+17                        miisiirii                      Mindiri       mpn         4
+18                            bokar                        Bokyi       bky         2
+19                             pame                         Lame       bma         1
+20                           gadaba                       Badaga       bfq         2
+21                         warrongo                      Darlong       dln         3
+22      língua de sinais brasileira               Guana (Brazil)       gqn        17
+23                             lamé                         Lame       bma         1
+24                           micmac                        Aimaq       aiq         3
+25                           guaque                        Buamu       box         3
+26                          masakin                        Masai       mas         2
+27                       nicobarese               Car Nicobarese       caq         4
+28        língua gestual portuguesa     Korlai Creole Portuguese       vkp        14
+29                        guajajara                    Guajajára       gub         1
+30                     canela-krahô                       Canela       ram         6
+31                      gumbaynggir                  Kumbainggar       kgs         3
+32                  gbeya bossangoa              Gbaya-Bossangoa       gbp         2
+33                seychelles creole                 Yilan Creole       ycr         8
+34                        allentiac                     Alladian       ald         4
+35                          keresan                       Korean       kor         2
+36                            guere                        Gwere       gwr         1
+37                          chumash                      Chuvash       chv         1
+38                            lotha                        Lotud       dtr         2
+39                     nuuchahnulth               Nuu-chah-nulth       nuk         2
+40                           gugada                       Gugadj       ggd         1
+41                             achí                         Achi       acr         1
+42                           bujeba                       Bunuba       bck         2
+43                     begak-ida'an                       Ida'an       dbj         6
+44                          gyarong                      Jiarong       jya         2
+45                          mosetén                        Moken       mwt         3
+46                       malakmalak                  Malak Malak       mpb         1
+47                            carib                          Ari       aac         2
+48                   yankuntjatjara              Yankunytjatjara       kdd         1
+49                             emai                         Efai       efa         1
+50                          kutchin                       Kachin       kac         2
+51                 great andamanese       Mixed Great Andamanese       gac         6
+52                  koyraboro senni                   Kabore One       onk         8
+53                          talinga                      Kalanga       kck         2
+54                             tati                          Ati       atk         1
+55                         luangiua                       Angika       anp         3
+56                            temne                         Teme       tdo         1
+57                            palor                         Alor       aol         1
+58                            khmu'                         Khmu       kjg         1
+59                             pisa                         Disa       dsi         1
+60                           emberá                        Mbere       mdt         2
+61                        umbu ungu                    Umbu-Ungu       ubu         1
+62                           bao'an                        Bajan       bjs         2
+63                            tanna                       Tainae       ago         2
+64                           ajagbe                      Adangbe       adq         2
+65                         madimadi                     Masimasi       ism         2
+66                     massachusett                     Assamese       asm         6
+67                         japreria                     Japrería       jru         1
+68                            guana                         Gana       gnq         1
+69                             baka                         Baba       bbw         1
+70                            nguna                        Aguna       aug         1
+71                            qafar                         Afar       aar         1
+72                            tolai                       Tolaki       lbw         1
+73                         watjarri                      Wajarri       wbv         1
+74                  oloh mangtangai                   Changthang       cna         8
+75                          palaung                       Halang       hal         2
+76                            guduf                         Gudu       gdu         1
+77                          meithei                       Eitiep       eit         3
+78                        aguacatec                   Aguacateco       agu         1
+79                          asuriní                      Apurinã       apu         2
+80                          nivacle                      Nivaclé       cag         1
+81                       gbaya kara                    Baga Koga       bgo         4
+82                            gojri                        Gahri       bfu         2
+83        lengua de señas argentina         Logudorese Sardinian       src        14
+84                             yaka                         Caka       ckx         1
+85                           bororo                       Borôro       bor         1
+86                          balanta                     Balantak       blz         1
+87                         guarijío                     Huarijio       var         2
+88                        aka-biada                      Aka-Bea       abj         3
+89                         shigatse                      Hidatsa       hid         3
+90                              bai                          Bau       bbd         1
+91                            koita                         Koda       cdz         2
+92                          lakhota                       Lakota       lkt         1
+93                         garífuna                     Garifuna       cab         1
+94                            lummi                         Dumi       dus         2
+95                           migama                      Migaama       mmy         1
+96                           abipón                       Abipon       axb         1
+97                           trique                       Tainae       ago         3
+98                      bobo madaré                  Bodo Gadaba       gbj         4
+99                            tigré                        Tigre       tig         1
+100                        tarangan                      Alangan       alj         2
+101                          tenyer                      Tengger       tes         2
+102                            mara                        Amara       aie         1
+103                      ngadjumaja                  Ngadjunmaya       nju         2
+104    langue des signes québecoise       Algerian Sign Language       asp        18
+105                         ampeeli                       Ambele       ael         3
+106                         manjaku                      Mandjak       mfv         2
+107                        tommo so                     Tombonuo       txa         3
+108                           deuri                        Deori       der         1
+109                          tiriyo                       Bidiyo       bid         2
+110                           shuri                        Sauri       srt         1
+111                        tuvaluan                       Tuvalu       tvl         2
+112                      manadonese                    Aragonese       arg         3
+113                          barupu                       Baruga       bjz         2
+114                         iñupiaq                      Inupiaq       ipk         1
+115                        comorian                     Cimbrian       cim         2
+116                       tasmanian                    Dalmatian       dlm         3
+117                        tutchone                      Tachoni       lts         3
+118                        mah meri                      Man Met       mml         3
+119                           hamer                          Aer       aeq         2
+120                            roro                         Horo       hor         1
+121                         chukchi                       Chachi       cbi         2
+122                         khalkha                     Chalikha       tgf         2
+123                            sama                         Sa'a       apb         1
+124                          tinrin                         Tiri       cir         2
+125                          zaparo                       Záparo       zro         1
+126                         yukulta                        Kulfa       kxj         3
+127                         mokilko                     Mokilese       mkj         3
+128                          tuareg                         Uare       ksj         2
+129                           matis                        Matís       mpq         1
+130                          sanuma                       Vanuma       vau         1
+131                         nyimang                       Qimant       ahg         3
+132                       atacameño                   Aguacateco       agu         4
+133                         supyire                         Auye       auu         4
+134                         kumauni                      Kumaoni       kfy         1
+135                     gününa küne                      Muinane       bmr         7
+136                           kilba                        Bilba       bpz         1
+137                        canamarí                     Kanamarí       knm         1
+138                          tabare                       Tabaru       tby         1
+139                         bakundu                      Bayungu       bxj         2
+140                        lacandón                     Lacandon       lac         1
+141                          iranxe                      Irántxe       irn         2
+142                           kaili                        Kaivi       kce         1
+143                pocomam oriental                   Binumarien       bjr        10
+144                            !xun                         Awun       aww         2
+145                        nitinaht                     Ditidaht       dtd         2
+146                           murik                        Marik       dad         1
+147                         cashibo                      Wasembo       gsp         3
+148                         luiseño                      Luiseno       lui         1
+149                          amuzgo                        Aduge       adu         3
+150                            bori                         Bari       bfa         1
+151                           mupun                        Mapun       sjm         1
+152                          bhumij                        Bubia       bbx         3
+153                        godoberi                    Ghodoberi       gdo         1
+154                         waunana                      Paunaka       pnk         2
+155                            kryz                          Kuy       kdt         2
+156                            yali                          Ali       aiy         1
+157                  haitian creole                 Yilan Creole       ycr         4
+158                           qiang                        Siang       sya         1
+159                       hianacoto                    Chamacoco       ceg         4
+160                        bachamal                       Bacama       bcy         2
+161                           vedda                       Veddah       ved         1
+162                        tyeraity                       Belait       beg         4
+163                          kenyah                        Denya       anv         2
+164                          tangbe                      Adangbe       adq         2
+165                           londo                        Bondo       bfw         1
+166                         sisaala                      Sissala       sld         1
+167                           darma                        Zarma       dje         1
+168                            juat                          Bua       bub         2
+169                            katu                         Kati       bsh         1
+170                          dulong                       Solong       aaw         2
+171                            kana                         Bana       bcw         1
+172                         mbodomo                        Morom       bdo         3
+173                          lamani                       Lamang       hia         1
+174                           iwoyo                        Iloko       ilo         2
+175                       poko-rawo                     Colorado       cof         4
+176                         rumsien                      Russian       rus         2
+177                            tupi                         Tuki       bag         1
+178                           lamen                         Lame       bma         1
+179                         belhare                      Bellari       brw         2
+180                          ciluba                        Bilua       blb         2
+181                          tungak                       Tungag       lcm         1
+182                          konkow                        Kongo       kon         2
+183                        chehalis                      Chinali       cih         3
+184                          sungor                        Angor       agg         2
+185                           jukun                        Jakun       jak         1
+186                            tama                         Dama       dmm         1
+187                        warekena                     Barikewa       jbk         3
+188                      pungupungu                   Bangubangu       bnx         4
+189                          katcha                      Kawacha       kcb         2
+190                        seminole                     Berinomo       bit         4
+191                          mutsun                         Mutu       tuc         2
+192                    saryg yughur                   East Yugur       yuy         5
+193          passamaquoddy-maliseet             Pass Valley Yali       yac        13
+194                           miwok                        Miluk       iml         2
+195                            eipo                         Lipo       lpo         1
+196                          kamass                       Kamasa       klp         1
+197                            emmi                          Ami       amy         2
+198                          mussau                        Bussa       dox         2
+199                            nupe                         Nume       tgs         1
+200                         ala'ala                      Alabama       akz         2
+201                          slavey                        Laven       lbo         2
+202                            kukú                         Kuke       ght         1
+203                       karadjeri                    Karajarri       gbd         3
+204                        illinois                      Dilling       dil         4
+205                             ijo                          Igo       ahl         1
+206                           mikir                        Lihir       lih         2
+207                        mono-alu                     Konomala       koa         3
+208                        kanakuru                     Kazukuru       kzk         2
+209                           baale                       Bamali       bbq         2
+210                            ncàm                         Nnam       nbp         2
+211                          paiute                       Palu'e       ple         2
+212  lughat al-isharat al-lubnaniya          Arvanitika Albanian       aat        19
+213                       tokelauan                      Tokelau       tkl         2
+214         campa pajonal asheninca      Ucayali-Yurúa Ashéninka       cpb        13
+215                           magar                         Afar       aar         2
+216                           burum                        Burun       bdi         1
+217                      toqabaqita                    To'abaita       mlu         2
+218                  malacca creole                 Yilan Creole       ycr         5
+219                      walmatjari                   Walmajarri       wmt         2
+220                         wai wai                       Waiwai       waw         1
+221                          molala                       Molale       mbe         1
+222                 jamaican creole                 Yilan Creole       ycr         5
+223                         woisika                      Siksika       bla         3
+224                      linngithig                   Leningitij       lnj         4
+225                            aizi                        Ayizi       yyz         1
+226                        alsatian                     Alladian       ald         2
+227                            tsez                         Geez       gez         2
+228                            amdo                         Ambo       amb         1
+229                  western desert                Western Keres       kjq         4
+230                         selknam                       Semnam       ssm         2
+231                           bugis                        Bugan       bbh         2
+232                          kasong                       Kayong       kxy         1
+233                     príncipense                  Principense       pre         1
+234                         alutiiq                       Alutor       alr         3
+235                     warrnambool                    Warrgamay       wgy         5
+236                        matngele                      Mangole       mqc         2
+237                         sorbian                      Serbian       srp         1
+238                           mwera                        Awera       awr         1
+239                          fongbe                        Songe       sop         2
+240                         toro so                        Oroko       bdu         3
+241                           paite                        Pande       bkj         2
+242                          tunebo                       Tutelo       tta         2
+243                       mangghuer                       Mangue       mom         3
+244                            seme                         Geme       geq         1
+245                          bidiya                       Bidiyo       bid         1
+246                        ksingmul                       Iatmul       ian         4
+247                         mpongwe                     Mahongwe       mhb         2
+248                         lampung                       Lamang       hia         2
+249                         goajiro                       Goaria       gig         3
+250                          kotoko                        Oroko       bdu         2
+251                          futuna                       Tutuba       tmi         2
+252                       tanglapui                      Ganglau       ggl         3
+253                           dagur                         Daur       dta         1
+254                     waray-waray                     Wagawaga       wgb         5
+255                          toraja                      Atorada       aox         2
+256    mískito coast english creole          Ngatik Men's Creole       ngm        16
+257                           gelao                         Gela       nlg         1
+258                         bobangi                      Babanki       bbk         2
+259                           ekoti                         Koti       eko         1
+260                         abenaki                        Araki       akr         3
+261                            agta                          Ata       atm         1
+262                         nanumea                       Vanuma       vau         2
+263                         hanunóo                      Hanunoo       hnn         1
+264          russian-chinese pidgin              Pu-Xian Chinese       cpx        11
+265                        popoloca                       Pogolo       poy         3
+266                        miriwung                    Miriwoong       mep         2
+267                           lebeo                        Legbo       agb         2
+268                    embera chami                 Emberá-Chamí       cmi         3
+269                          juruna                       Jurúna       jur         1
+270                         huitoto                       Hibito       hib         3
+271                         mazatec                      Ixcatec       ixc         3
+272                          mankon                       Bankon       abb         1
+273                         mwotlap                       Motlav       mlv         2
+274                       taiwanese                    Hainanese       hnm         2
+275     langue des signes française       Algerian Sign Language       asp        15
+276                       yurimangí                       Bumang       bvp         4
+277                           drehu                         Dehu       dhv         1
+278                        kurmanji                       Bumaji       byp         3
+279                            buru                        Burun       bdi         1
+280                           nomad                         Boma       boh         2
+281                         maninka                       Aninka       aqk         1
+282               martinique creole               Cafundo Creole       ccd         8
+283                           betoi                        Bendi       bct         2
+284                         spitian                      Haitian       hat         2
+285                        mbabaram                     Barbaram       vmb         2
+286                          korafe                        Korak       koz         2
+287                    shira yughur                    Khinalugh       kjj         6
+288                         slovene                        Laven       lbo         3
+289                            roti                         Koti       eko         1
+290                        gaagudju                       Gagadu       gbu         3
+291                           basaá                        Basap       bdb         1
+292                         marchha                        Archi       aqc         3
+293    plains-indians sign language  Plains Indian Sign Language       psd         2
+294                        shoshone                     Shoshoni       shh         1
+295                          tangga                       Tangoa       tgp         1
+296                            mina                         Jina       jia         1
+297                         arapesh                      Arapaso       arj         2
+298                       bilinarra                     Bekwarra       bkv         4
+299                       yingkarta                    Yinggarda       yia         2
+300                     esmeraldeño                    Esperanto       epo         5
+301                           maleu                         Akeu       aeu         2
+302                           muher                         Mser       kqx         2
+303                         clallam                      Klallam       clm         1
+304                          ayomán                         Abon       abo         3
+305                           mauka                        Maaka       mew         1
+306                            alas                         Alak       alk         1
+307                          achuar                        Shuar       jiv         2
+308                            laha                         Laba       lau         1
+309                          abkhaz                         Akha       ahk         2
+310                           zoque                          Zou       zom         2
+311                          digaro                         Digo       dig         2
+312                     diola-fogny                   Jola-Fonyi       dyo         4
+313                        musqueam                       Muskum       mje         3
+314                           tetun                        Tetum       tet         1
+315                            lega                          Ega       ega         1
+316                           mbili                         Mili       ymh         1
+317                           catio                          Ati       atk         2
+318                       warluwara                    Waluwarra       wrb         2
+319                           jabêm                         Abom       aob         2
+320                           nocte                        Notre       bly         2
+321                            daju                         Danu       dnv         1
+322                           nivkh                       Aninka       aqk         3
+323                         mordvin                       Morigi       mdb         3
+324                         nelemwa                      Ngelima       agh         3
+325                          kolana                       Korana       kqz         1
+326                           qaget                        Qaqet       byx         1
+327                          kolami                        Kalam       kmh         2
+328                        kalispel                       Talise       tlr         3
+329                            wobe                         Aore       aor         2
+330                          phlong                       Phuong       phg         1
+331                           mnong                        Muong       mtq         1
+332                    martuthunira                 Martuyhunira       vma         1
+333                      chiriguano                   Chiquitano       cax         4
+334                           sebei                        Sobei       sob         1
+335                          paresi                        Arosi       aia         2
+336                            mari                          Ari       aac         1
+337                      karimojong                   Karamojong       kdj         1
+338                          yaruro                         Yaur       jau         2
+339                       angaatiha                    Angaataha       agm         1
+340                            orig                        Oring       org         1
+341                           gutob                         Guro       goa         2
+342                         hawrami                       Harami       xha         1
+343                            taba                         Baba       bbw         1
+344                           //ani                         ǁAni       hnh         2
+345                         moraori                       Morori       mok         1
+346                       shinassha                     Sinasina       sst         3
+347                         kadazan                      Kavalan       ckv         2
+348                       chinantec                    Chiapanec       cip         3
+349                          senadi                        Bendi       bct         2
+350                            naga                         Daga       dgz         1
+351                            lele                         Lere       gnh         1
+352                          acholi                        Acoli       ach         1
+353                            leko                         Leco       lec         1
+354                          mambwe                       Mambae       mgm         1
+355                           lango                        Lengo       lgr         1
+356                          mekens                        Mekeo       mek         2
+357                          gavião                         Galo       adl         3
+358                          terêna                       Tereno       ter         2
+359                            siar                          Sar       mwm         1
+360                           chaga                        Chiga       cgg         1
+361                        barasano                      Arabana       ard         3
+362                            kuna                         Buna       bvn         1
+363                           colac                         Bola       bnp         2
+364                         mikarew                       Bitare       brt         3
+365                           oirat                       Oirata       oia         1
+366                          bilaan                         Bila       bip         2
+367          guianese french creole       Guianese Creole French       gcr         8
+368                           dogri                        Bagri       bgq         2
+369                           pokot                       Bokoto       bdt         2
+370                        mondunga                       Ndunga       ndt         2
+371                          quiché                       Tlicho       dgr         3
+372                          biatah                         Bata       bta         2
+373                           omaha                        Amara       aie         2
+374                       ishkashmi                   Ishkashimi       isk         1
+375                      runyankore                     Nyankole       nyn         3
+376                            sema                         Rema       bow         1
+377                           djapu                         Jaru       ddj         2
+378                            bawm                         Baré       bae         2
+379                           bayso                        Baiso       bsw         1
+380                        nyah kur                      Nyahkur       cbn         1
+381                        owininga                      Owiniga       owi         1
+382                        makassar                      Makasar       mak         1
+383                           purki                         Puri       prr         1
+384                           gunin                        Bunun       bnn         2
+385                            kewa                         Hewa       ham         1
+386                      tsova-tush                       Tsotso       lto         5
+387                           konua                        Konda       knd         1
+388                          maasai                        Masai       mas         1
+389                        tepehuan                        Phuan       phu         3
+390                      tarahumara                    Pacahuara       pcp         3
+391                           ambae                        Ambai       amk         1
+392                         athpare                    Athpariya       aph         3
+393                            dizi                          Dii       dur         1
+394                            jeli                         Reli       rei         1
+395                           nharo                         Naro       nhr         1
+396                          yahgan                      Yangman       jng         2
+397                           baule                        Baure       brg         1
+398                         nyelâyu                      Nyâlayu       yly         2
+399                         sikuani                       Sekani       sek         2
+400                         ngbandi                       Ngandi       nid         1
+401                         melanau                        Danau       dnu         3
+402                    chontal maya                  Chothe Naga       nct         5
+403                         tirmaga                       Girawa       bbr         3
+404                       moldavian                     Polabian       pox         3
+405                            lalo                         Galo       adl         1
+406                            leti                         Seti       sbi         1
+407                       kwakw'ala                    Kwak'wala       kwk         2
+408                        yaghnobi                      Yagnobi       yai         1
+409                   melayu betawi                       Betawi       bew         7
+410                            fyem                         Fyer       fie         1
+411                  bininj gun-wok                 Plains Miwok       pmw         8
+412                            dumo                         Duma       dma         1
+413                       kulamanen                    Kagayanen       cgc         3
+414           svenska teckenspråket            Santa Teresa Cora       cok        13
+415                       ingessana                        Igana       igg         4
+416                            sawu                         Siwu       akp         1
+417                          anejom                         Anem       anz         2
+418                      meryam mir                   Meriam Mir       ulk         1
+419                            mono                          Moo       gwg         1
+420                           bajau                        Bahau       bhv         1
+421                       ngiyambaa                      Nilamba       nim         3
+422                          stieng                        Nteng       nqt         2
+423                            gula                         Guya       gka         1
+424                      yurt tatar                    Muratayak       asx         5
+425                          ojibwe                       Ojibwa       oji         1
+426                            cham                         Chak       ckh         1
+427                           mopan                        Wapan       juk         2
+428                          milang                       Minang       xrg         1
+429                      hixkaryana                   Hixkaryána       hix         1
+430                           kirma                         Bima       bhp         2
+431                            mien                         Mmen       bfm         1
+432                           shabo                        Suabo       szp         1
+433                           langi                        Bangi       bni         1
+434                      erromangan                     Romanian       ron         3
+435                          johari                        Ghari       gri         2
+436                           sooke                         Koke       kou         2
+437                tümpisa shoshone                 Tampias Lobu       low         9
+438                          kambot                         Ambo       amb         2
+439                          malgwa                        Alawa       alh         2
+440                         pawaian                       Pawaia       pwa         1
+441                         puluwat                     Putukwam       afe         3
+442                         ossetic                     Ossetian       oss         2
+443                          berber                       Beaver       bea         2
+444                        candoshi                      Badeshi       bdz         3
+445                        ju|'hoan                     Juǀʼhoan       ktz         2
+446                           sangu                        Pangu       png         1
+447                           beria                        Berik       bkl         1
+448                            kefa                         Kafa       kbr         1
+449                          banawá                      Bantawa       bap         2
+450                            chin                         Achi       acr         2
+451                          itawis                       Itawit       itv         1
+452                           campa                         Akpa       akf         2
+453                      warndarang                    Wandarang       wnd         1
+454                           kposo                       Ikposo       kpo         1
+455                        tzutujil                    Tz'utujil       tzj         1
+456                          panare                       Panará       kre         1
+457                           jahai                        Jehai       jhi         1
+458                        muscogee                      Kusaghe       ksg         4
+459                            kele                         Kete       kcv         1
+460                            onge                          Ong       oog         1
+461                           yupik                        Kupia       key         2
+462                           kullo                        Mulao       giu         2
+463                            nkem                         Arem       aem         2
+464                           otomí                        Oloma       olm         2
+465                              gã                           Ga       gaa         1
+466                          giziga                       Gilima       gix         2
+467                           chang                       Achang       acn         1
+468                            kami                          Ami       amy         1
+469                            hyow                         Heyo       auk         2
+470                          balyku                        Bolyu       ply         2
+471                            gunu                         Gudu       gdu         1
+472                             izi                          Idi       idi         1
+473                          koiali                        Biali       beh         2
+474                          roglai                        Nogai       nog         2
+475                        kamaiurá                     Kamayurá       kay         1
+476                          sisiqa                      Siksika       bla         2
+477                     yuwaalaraay                    Kuwaataay       cwt         4
+478                             oto                          Ito       itw         1
+479                          bariba                        Areba       aea         2
+480                       arakanese                    Aragonese       arg         2
+481                ngankikurungkurr                 Ngantangarra       ntg         9
+482                            bunu                        Bunun       bnn         1
+483                        romansch                      Romansh       roh         1
+484                         babungo                      Babango       bbm         1
+485                     tukang besi                      Adangbe       adq         6
+486                         bakueri                       Bateri       btv         2
+487                           paita                        Taita       dav         1
+488                        cayuvava                     Cayubaba       cyb         2
+489                          cocama                       Bacama       bcy         2
+490                         tsafiki                        Shiki       gua         3
+491               guadeloupe creole               Cafundo Creole       ccd         9
+492                          dullay                        Duala       dua         2
+493                            !xóõ                         ǃXóõ       nmn         1
+494                      ungarinjin                    Ngarinyin       ung         2
+495                        hualapai                        Alawa       alh         4
+496                          jomang                       Bumang       bvp         2
+497                      kata kolok                      Aka-Kol       aky         5
+498                             mun                          Bun       buv         1
+499                          worora                       Gorowa       gow         2
+500                           asmat                         Amal       aad         2
+501        lengua de señas española           Lingua Franca Nova       lfn        14
+502                         dagaare                      Dabarre       dbr         2
+503                       gunbalang                   Kunbarlang       wlg         2
+504                        ketapang                      Kenyang       ken         3
+505                         yucatec                     Yucateco       yua         1
+506                         paamese                        Amele       aey         3
+507                        khwarshi                     Khvarshi       khv         1
+508                          uldeme                        Eleme       elm         2
+509                          gworok                         Orok       oaa         2
+510                          xiamen                        Piame       pin         2
+511                            mizo                          Igo       ahl         2
+512                         miskito                      Mískito       miq         1
+513                      rennellese                     Rendille       rel         4
+514                        kayah li                       Bayali       bjy         3
+515                             foe                          Doe       doe         1
+516                         klamath                      Koasati       cku         3
+517                         tepehua                     Kemiehua       kfj         3
+518                            karó                         Kari       kbj         1
+519                           nyiha                          Iha       ihp         2
+520                        jamamadi                     Jamamadí       jaa         1
+521                          koluri                       Kaluli       bco         2
+522                           huave                       Chuave       cjv         1
+523                           cuica                        Cuiba       cui         1
+524                          dabida                       Dadiya       dbd         2
+525                            noni                         Honi       how         1
+526                         gidabal                       Girawa       bbr         3
+527                          kaytej                        Kaure       bpp         3
+528                      nkore-kiga                        Keiga       kec         5
+529                        munzombo                     Monzombo       moj         1
+530           guinea bissau crioulo         Upper Guinea Crioulo       pov         9
+531                            miri                         Biri       bzr         1
+532                         mazahua                        Kahua       agw         3
+533                    tatar-noghay                      Batanga       bnm         6
+534                          mojave                       Mohave       mov         1
+535                         maybrat                     Mai Brat       ayz         2
+536                     nyangumarda                  Nyangumarta       nna         1
+537                           po-ai                        Kovai       kqb         2
+538                         ndebele                       Bebele       beb         2
+539                          atchin                         Achi       acr         2
+540                          sulung                       Hulung       huk         1
+541                           wichí                         Achi       acr         3
+542                           mende                        Bende       bdp         1
+543                           efate                        Afade       aal         2
+544                          seediq                        Sediq       trv         1
+545                       ndjébbana                    Djeebbana       djj         3
+546                       alyawarra                     Alyawarr       aly         1
+547                          kualan                       Auslan       asf         2
+548                        fulfulde                      Hulaulá       huy         4
+549                         k'ekchí                       Kekchí       kek         1
+550                            magi                          Agi       aif         1
+551                          chocho                       Chachi       cbi         2
+552                            bodo                        Bondo       bfw         1
+553                       purépecha                    Purepecha       tsz         1
+554                            miju                          Miu       mpo         1
+555                           kuman                        Kumam       kdi         1
+556                       pulopetak                     Pele-Ata       ata         5
+557                    mangap-mbula                    Gungabula       gyf         5
+558                          cèmuhî                       Cemuhî       cam         1
+559                           hinuq                       Hinukh       gin         2
+560                          logoti                      Logorik       liu         2
+561                       tashlhiyt                    Tachelhit       shi         3
+562                      wik munkan                  Wik-Mungkan       wim         2
+563                           azari                         Aari       aiw         1
+564                        djingili                      Bongili       bui         3
+565                          aikaná                       Aikanã       tba         1
+566                       blackfoot                       Bankon       abb         5
+567                      kalkatungu                    Kalkutung       ktg         2
+568                           margi                        Margu       mhg         1
+569                            bozo                         Hozo       hoz         1
+570                           khumi                         Dumi       dus         2
+571                          manobo                       Panobo       pno         1
+572                            teke                         Tese       keg         1
+573                            mixe                         Ömie       aom         2
+574                            bisa                         Biga       bhc         1
+575                         konyagi                       Koyaga       kga         2
+576                       yelî dnye                      Pelende       ppp         5
+577                          jarawa                       Karawa       xrw         1
+578                    chasta costa                   Chayahuita       cbt         6
+579                 norsk tegnspråk                Northern Pomo       pej         9
+580                          yup'ik                        Kupia       key         3
+581                          =|hoan                        Hahon       hah         3
+582                      nambikuára                     Namakura       nmk         3
+583  lesser antillean french creole        Eastern Maroon Creole       djk        17
+584                      montagnais                     Mentawai       mwv         4
+585                           wari'                        Waris       wrs         1
+586                      magindanao                 Maguindanaon       mdh         2
+587                       tectiteco                    Tektiteko       ttc         2
+588                         koranko                      Kuranko       knk         1
+589                           wetan                        Betaf       bfe         2
+590                 runyoro-rutooro                Budong-Budong       bdx        10
+591                      ifira-mele                        Amele       aey         5
+592                       marquesan                      Marsian       ims         4
+593                           ngoni                        Choni       cda         2
+594                          nevome                         Neme       nex         2
+595                        rang pas                      Rangkas       rgk         2
+596                         toratán                        Toram       trj         3
+597                           solon                       Solong       aaw         1
+598                           umaua                        Amara       aie         2
+599                          jivaro                        Birao       brr         3
+600                 hawaiian creole                 Yilan Creole       ycr         5
+601                         yavapai                       Amahai       amq         3
+602                         maipure                     Manipuri       mni         2
+603                            rimi                         Nimi       nis         1
+604                          gungbe                       Gengle       geg         2
+605                            da'a                         Sa'a       apb         1
+606                          bagiro                        Bagri       bgq         2
+607                          koiari                         Kari       kbj         2
+608                           maidu                        Mailu       mgu         1
+609                       émérillon                    Emerillon       eme         2
+610                           kipea                         Fipa       fip         2
+611                         dumagat                       Bragat       aof         3
+612                        toussian                     Prussian       prg         2
+613                           tonga                        Ronga       rng         1
+614                           kresh                        Irish       gle         2
+615                         totonac                       Torona       tqr         2
+616                           boazi                        Biali       beh         2
+617                           kanoê                        Kanoé       kxo         1
+618                         nyigina                      Nyikina       nyh         1
+619            "kati (in west papua             Bati (Indonesia)       bvt        11
+620                         bularnu                        Bugan       bbh         3
+621                         kariera                        Kaera       jka         2
+622                         mambila                       Malila       mgq         2
+623                           maale                          Maa       cma         2
+624                     neo-aramaic                 Judeo-Arabic       jrb         5
+625                           kokni                        Konni       kma         1
+626                       dhaasanac                    Daasanach       dsh         2
+627                        kiribati                      Biritai       bqq         3
+628                         guaraní                      Guarani       grn         1
+629                           angas                        Angal       age         1
+630                           ulcha                         Ulch       ulc         1
+631                          nasioi                      Naasioi       nas         1
+632                        sahaptin                       Ahanta       aha         4
+633                        cuicatec                    Cuitlatec       cuy         2
+634                            nung                         Bung       bqd         1
+635                         saanich                      Spanish       spa         2
+636                          motuna                       Momuna       mqf         1
+637                         timugon                        Mugom       muk         3
+638                           mooré                         Boor       bvf         2
+639                         nyamkad                       Nyamal       nly         2
+640                          nubian                       Mufian       aoj         2
+641                         chatino                        Chané       caj         3
+642                     sipakapense                  Sipacapense       qum         1
+643                    mentuh tapuh                   Mel-Khaonh       hkn         7
+644                          fuzhou                      Bughotu       bgt         3
+645             karipuna do guapore               Cafundo Creole       ccd        11
+646                    koyra chiini                    Mara Chin       mrh         5
+647                      cakchiquel                    Kaqchikel       cak         4
+648                       lungchang                       Achang       acn         4
+649                           ordos                         Orok       oaa         2
+650                           konjo                        Bonjo       bok         1
+651                            duka                         Doka       dbi         1
+652                         frisian                       Fijian       fij         2
+653                           zayse                        Sause       sao         2
+654                      chemehuevi                      Chenchu       cde         5
+655                       yulparija                    Athpariya       aph         4
+656                        yukaghir                     Ubaghara       byc         4
+657                          gimira                      Girirra       gii         2
+658                           birom                        Berom       bom         1
+659                          ndyuka                        Dyula       dyu         2
+660                          leggbó                        Legbo       agb         2
+661                          lengua                        Benga       bng         2
+662                       yawelmani                     Bajelani       bjm         3
+663                           zande                        Pande       bkj         1
+664                           malto                         Mato       met         1
+665                            momu                         Bomu       bmq         1
+666                  shipibo-konibo               Shipibo-Conibo       shp         1
+667                     epena pedee                    Nez Perce       nez         6
+668                            mada                          Maa       cma         1
+669                       bali-vitu                      Alngith       aid         5
+670                           kiwai                        Kikai       kzg         1
+671                          gaalpu                         Galo       adl         3
+672                          mixtec                        Biete       biu         3
+673                          broken                       Bookan       bnb         2
+674                        chaldean                        Chala       cll         3
+675                          diyari                        Dieri       dif         2
+676                           kanum                         Kanu       khx         1
+677                          tanana                      Tanaina       tfn         1
+678                         xasonga                      Kasanga       ccj         2
+679                        panyjima                     Banyjima       pnw         1
+680                            maba                         Baba       bbw         1
+681                        popoluca                       Boruca       brn         4
+682                          turkic                         Tuki       bag         2
+683                          nyangi                       Nyanga       nyj         1
+684                         tatana'                       Tatana       txx         1
+685                        shiriana                      Sikiana       sik         2
+686                            /xam                         ǀXam       xam         1
+687                        jur mödö                     Jur Modo       bex         2
+688                            buma                         Bima       bhp         1
+689                          dumaki                       Bumaji       byp         2
+690                            nuni                         Nubi       kcn         1
+691                           binga                         Biga       bhc         1
+692                           nuosu                         Nusu       nuf         1
+693                      slovincian                    Slovenian       slv         2
+694                          nisgha                      Nisga'a       ncg         2
+695                        kokborok                    Kok Borok       trp         1
+696                          kulung                       Hulung       huk         1
+697                         xiriana                      Xiriâna       xir         1
+698                          ngombe                       Ngomba       jgo         1
+699                          nambas                       Tambas       tdk         1
+700                           tutsa                         Busa       bqp         2
+701      south korean sign language  South African Sign Language       sfs         4
+702                       ritharngu                   Ritharrngu       rit         1
+703                            komo                         Kamo       kcq         1
+704                            kham                         Khah       hkh         1
+705                          babole                       Bakole       kme         1
+706                    mantjiltjara                   Yandjibara       xyb         5
+707                        chaozhou                       Chachi       cbi         4
+708                         gurenne                      Burunge       bds         3
+709                         chorote                       Chortí       caa         2
+710                         nar-phu                      Nar Phu       npa         1
+711                         dhivehi                       Divehi       div         1
+712                           kosop                         Doso       dol         2
+713                          kituba                        Gitua       ggt         2
+714                serbian-croatian               Serbo-Croatian       hbs         3
+715                      innamincka                       Aninka       aqk         5
+716                           chaha                        Chala       cll         1
+717                       rembarnga                   Rembarrnga       rmb         1
+718                            boko                         Loko       lok         1
+719                           kitja                         Kija       gia         1
+720                          olutec                        Alune       alp         3
+721                      dadjriwalé                       Dargwa       dar         5
+722                      kuuku ya'u                   Kuuku-Ya'u       kuy         1
+723                  kugu nganhcara                 Kullu Pahari       kfx         7
+724                        kankanay                    Kankanaey       kne         1
+725                          banoni                      Bannoni       bcm         1
+726                           jugli                        Jumli       jml         1
+727                           linda                        Lunda       lun         1
+728                           sougb                         Suga       sgi         2
+729                            doko                         Doka       dbi         1
+730                          apache                       Krache       kye         2
+731                        nagatman                      Dagoman       dgn         3
+732                         jibbali                      Simbali       smg         2
+733    indo-pakistani sign language       Pakistan Sign Language       pks         6
+734                         kadugli                       Kaluli       bco         2
+735                           altai                        Andai       afd         2
+736                        timorese                       Tidore       tvo         3
+737                          kabiyé                       Kabiyè       kbp         1
+738                          andoke                        Andoa       anb         2
+739                            pumi                         Dumi       dus         1
+740                            raga                         Daga       dgz         1
+741                         amuesha                        Aushi       auh         3
+742                            tubu                         Dubu       dmu         1
+743                           lyele                        Gyele       gyi         1
+744                          pogoro                       Pogolo       poy         1
+745                         o'odham                       Okodia       okd         3
+746                            kara                         Cara       cfd         1
+747                          basari                      Bassari       bsc         1
+748                        anamuxra                     Anamgura       imi         2
+749                          yuruti                       Yurutí       yui         1
+750             urubú sign language           Cuba Sign Language       csf         3
+751                          tamang                       Lamang       hia         1
+752       lingua italiana dei segni           International Sign       ils        15
+753                           tabwa                        Kabwa       cwa         1
+754                           bunan                        Bugan       bbh         1
+755                           taiof                         Tayo       cks         2
+756                            anêm                         Anem       anz         1
+757                      wembawemba                  Wemba Wemba       xww         1
+758                         koromfe                      Koromfé       kfz         1
+759                            ainu                         Abau       aau         2
+760                      ngarinyeri                 Ngarrindjeri       nay         3
+761                        tlapanec                    Chiapanec       cip         3
+762                           yazva                         Azha       aza         2
+763                            vata                          Ata       atm         1
+764                          podoko                        Oroko       bdu         2
+765                          kiluba                        Bilua       blb         2
+766                          wanman                      Warnman       wbt         1
+767                            cora                         Bora       boa         1
+768         nederlandse gebarentaal          Vlaamse Gebarentaal       vgt         7
+769                         kyirong                      Kyerung       kgy         2
+770                          salish                       Danish       dan         2
+771                            tofa                         Gofa       gof         1
+772                           nukak                        Anuak       anu         2
+773                     pingilapese                  Pingelapese       pif         1
+774                       wéménugbé                      Monumbo       mxk         5
+775                           loven                        Laven       lbo         1
+776                          tamabo                         Ambo       amb         2
+777                        pokomchí                       Pokomo       pkb         3
+778                            bulu                         Budu       buu         1
+779                           karen                        Karon       krx         1
+780                          cayapa                       Cayuga       cay         2
+781          tanzania sign language      Tanzanian Sign Language       tza         1
+782                          angami                        Andai       afd         2
+783                          i'saka                       Mesaka       iyo         2
+784                         tairora                      Airoran       air         2
+785                            kela                         Pela       bxd         1
+786                          nuaulu                       Huaulu       hud         1
+787                       lun dayeh                     Lundayeh       lnd         1
+788                        jakaltek                       Jakati       jat         3
+789                          tiipay                       Tainae       ago         3
+790                           djaru                         Jaru       ddj         1
+791                           ifumu                        Emumu       enr         2
+792                      maranungku                   Maranunggu       zmr         1
+793                            sare                         Sari       asj         1
+794                            masa                          Maa       cma         1
+795                            yugh                          Yug       yug         1
+796                          boiken                       Boikin       bzf         1
+797                        kanjobal                   Q'anjob'al       kjb         3
+798                      diola-kasa                    Jola-Kasa       csk         2
+799                           fiote                        Aiome       aki         2
+800                           enets                       Nenets       yrk         1
+801                          etsako                        Atsam       cch         3
+802                       provençal                       Podena       pdn         4
+803                          damana                        Amara       aie         2
+804                mauritian creole             Louisiana Creole       lou         5
+805                           makua                       Maku'a       lva         1
+806                          jamsay                        Basay       byq         2
+807                          thadou                         Tado       klw         2
+808                        khinalug                    Khinalugh       kjj         1
+809                         dyimini                        Bimin       bhl         3
+810                       lamu-lamu                     Lamalama       lby         3
+811                         kuikúro                      Arikara       ari         4
+812                          gaelic                       Galice       gce         2
+813                        arrernte                       Arbore       arv         4
+814                         kyuquot                         Kuot       kto         3
+815                            anyi                         Andi       ani         1
+816                          fulani                       Fagani       faf         2
+817                         manange                       Ganang       gne         2
+818                         chontal                      Choctaw       cho         2
+819        deutsche gebärdensprache               Western Apache       apw        15
+820                          muisca                       Nubaca       baf         3
+821                     kamano-kafe                       Kamano       kbq         5
+822                           soddo                        Bondo       bfw         2
+823                  adynyamathanha                Adnyamathanha       adt         1
+824                             fox                          Foi       foi         1
+825                             dla                          Dia       dia         1
+826                          walman                       Valman       van         1
+827                          kalami                        Kalam       kmh         1
+828                           tarao                        Karao       kyj         1
+829                         songish                      Alngith       aid         3
+830                           anywa                        Ajawa       ajw         2
+831                            tewa                         Hewa       ham         1
+832                            buin                          Bun       buv         1
+833                           parji                        Warji       wji         1
+834                            moca                         Maca       mca         1
+835                            loma                         Boma       boh         1
+836         taiwanese sign language       Japanese Sign Language       jsl         3
+837                         retuarã                     Yeretuar       gop         3
+838                        ngalkbun                    Ngalakgan       nig         3
+839                      bena-lulua                   Luba-Lulua       lua         3
+840                       winnebago                       Ainbai       aic         5
+841                            hayu                          Ayu       ayu         1
+842                           kabui                         Abui       abz         1
+843                        jarawara                     Yarawata       yrw         2
+844                         awa pit                       Awadhi       awa         3
+845                          moghol                      Mogholi       mhj         1
+846                          rashad                        Rabha       rah         2
+847                           gwari                        Gbari       gby         1
+848                          lucazi                      Luchazi       lch         1
+849                          newari                       Mewari       mtr         1
+850                            jino                         Jina       jia         1
+851                            chai                         Chak       ckh         1
+852                   luxemburgeois                Luxembourgish       ltz         4
+853                        donno so                       Dogoso       dgs         3
+854                       wikchamni                      Ai-Cham       aih         4
+855                         palikur                      Palikúr       plu         1
+856                       kimaghama                      Kimaama       kig         2
+857                           gurma                        Cerma       cme         2
+858                           kutai                        Putai       mfl         1
+859                      baragaunle                       Arguni       agf         5
+860                         hokkien                       Boikin       bzf         3
+861                         kunming                       Bumang       bvp         3
+862                        menomini                    Menominee       mez         2
+863                         sidaama                      Kimaama       kig         2
+864                          byansi                      Byangsi       bee         1
+865                         nanerge                      Nancere       nnc         2
+866                           santa                        Manta       myg         1
+867                           koegu                        Kwegu       xwg         1
+868                          auyana                       Luyana       lyn         1
+869                          ifugao                          Igo       ahl         3
+870                        ngalakan                    Ngalakgan       nig         1
+871                         nakkara                      Na-kara       nck         1
+872                         gitksan                      Gitxsan       git         1
+873                           sotho                         Koho       kpm         2
+874                          noghay                        Nogai       nog         2
+875                       havasupai                      Harsusi       hss         4
+876                        diegueño                      Bierebo       bnk         4
+877                          kemant                       Qimant       ahg         2
+878                            kota                         Koda       cdz         1
+879                       ocuilteco                  Coahuilteco       xcw         3
+880                           itzaj                         Itzá       itz         2
+881                           bemba                         Beba       bfp         1
+882                            deti                         Seti       sbi         1
+883                    wik ngathana                  Wik Ngathan       wig         1
+884                            aynu                          Ayu       ayu         1
+885                       rgyalrong                      Jiarong       jya         4
+886                   sonsorol-tobi                     Sonsorol       sov         5
+887                          anggor                        Angor       agg         1
+888                           kamba                        Hamba       hba         1
+889                         nadroga                       Adhola       adh         3
+890                       inanwatan                     Aranadan       aaf         4
+891                           acoma                        Acoli       ach         2
+892                       jaminjung                  Djamindjung       djd         2
+893                              ao                           Ak       akq         1
+894                           saami                        Naami       bzv         1
+895                           mbara                        Mbala       mdp         1
+896                          larike                       Arikem       ait         2
+897                           ahtna                       Ahtena       aht         1
+898                     nihon shuwa                   Hmong Shua       hmz         5
+899                          buryat                       Buriat       bua         1
+900                       zeelandic                    Icelandic       isl         2
+901                      karakalpak                  Kara-Kalpak       kaa         1
+902                         lezgian                     Lezghian       lez         1
+903                       hill mari                      Bellari       brw         4
+904       belarusian (taraškievica)            Andalusian Arabic       xaa        13
+905                       sinhalese                      Sinhala       sin         3
+906                      banyumasan                       Aymara       aym         5
+907                     anglo-saxon                    Old Saxon       osx         5
+908            southern azerbaijani            South Azerbaijani       azb         3
+909                           tuvan                       Tsuvan       tsh         1
+910                           waray                        Warao       wba         1
+911                          norman                       German       deu         2
+912                         inupiak                      Inupiaq       ipk         1
+913                    west flemish                 West Lembata       lmj         5
+914                         kirundi                        Rundi       run         2
+915                       ripuarian                     Ligurian       lij         3
+916                         nauruan                        Nauru       nau         2
+917                        min dong                      Mundang       mua         3
+918                           hakka                        Dakka       dkk         1
+919                     mazandarani                  Mazanderani       mzn         1
+920                         min nan                      Minaean       inm         2
+921                         occitan                      Bukitan       bkn         3
+922               classical chinese            Classical Tibetan       xct         6
+923               palatinate german             Hutterite German       geh         7
+924              norwegian (bokmål)             Norwegian Bokmål       nob         2
+925            bishnupriya manipuri                  Bishnupriya       bpy         9
+926                         aramaic                       Arabic       ara         2
+927             norwegian (nynorsk)            Norwegian Nynorsk       nno         2
+928                     kapampangan                     Pampanga       pam         3
+929                          pashto                       Pushto       pus         1
+930                         vepsian                      Persian       fas         2
+931               saterland frisian              Eastern Frisian       frs         5
+932                          romani                       Romany       rom         1
+933                            fula                         Fala       fax         1
+934                       low saxon                    Old Saxon       osx         3
+935                           sakha                         Akha       ahk         1
+936                      limburgish                    Limburgan       lim         3
+937              kurdish (kurmanji)                 Kara (Korea)       zra        10
+938                         sesotho                       Tsotso       lto         3
+939                          zazaki                       Zanaki       zak         1
+940                      papiamentu                   Papiamento       pap         1
+941                     greenlandic                    Icelandic       isl         4
+942                    west frisian              Western Frisian       fry         3
+943                franco-provençal                    Fortsenal       frt         9
+944                          uyghur                       Uighur       uig         1
+945                 dutch low saxon                    Old Saxon       osx         8
+946                   north frisian             Northern Frisian       frr         3
+947                            avar                         Afar       aar         1
+948                          tongan                       Dolgan       dlg         2
+949                kurdish (sorani)                Karo (Brazil)       arr         9
+950                       alemannic                       Alanic       xln         3
+951                       aromanian                     Romanian       ron         1
+952                     piedmontese                   Piemontese       pms         1
+953                emilian-romagnol               Ilianen Manobo       mbi         8
+954                          kabiye                       Kabiyè       kbp         1
+955                     interlingua                  Interlingue       ile         1
+956                        acehnese                     Achinese       ace         2
+957                 jamaican patois            Samaritan Aramaic       sam         8
+958                  northern sotho               Southern Sotho       sot         2
+959                         nahuatl                        Kahua       agw         3
+960                           newar                         Awar       aya         2
+961                       tarantino                       Marino       mrb         4
+962                         norfolk                         Orok       oaa         3
+963                          doteli                       Dameli       dml         2
+964                     meadow mari                  Madhi Madhi       dmd         5
+965                          nepali                        Apali       ena         2
+966                  simple english               Middle Cornish       cnx         7
+967                          sranan                      Paranan       prf         2
+968                central bicolano                Central Bikol       bcl         4
+969                         luganda                        Ganda       lug         2
+970                              wu                           Au       avt         1
+971                       cantonese                     Achinese       ace         4
+972                         ilocano                      Alekano       gah         3
+973                  livvi-karelian                     Karelian       krl         6
+974             old church slavonic                Church Slavic       chu         6
+975                 eastern punjabi              Western Panjabi       pnb         3
+976                 western punjabi              Western Panjabi       pnb         1
+977                         swahili                        Bhili       bhb         3
+978                         konkani                        Konni       kma         2
+979                           greek                        Creek       mus         1
+980                           malay                       Malayo       mbp         1
+981                        mandarin                      Mandari       mqu         1
