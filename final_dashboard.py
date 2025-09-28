@@ -252,8 +252,8 @@ with tab1:
 
         fig_cluster_res.update_layout(
             title='Language Resource Distribution with Clustering',
-            xaxis_title='Log of Unlabelled Resource Count',
-            yaxis_title='Log of Labelled Resource Count',
+            xaxis_title='Unlabelled Data (log)',
+            yaxis_title='Labelled Data (log)',
             showlegend=False,
             width=800,
             height=600
@@ -363,8 +363,8 @@ with tab2:
 
         fig_cluster_all.update_layout(
             title='Language Resource Distribution with Clustering (All Languages)',
-            xaxis_title='Log of Unlabelled Resource Count',
-            yaxis_title='Log of Labelled Resource Count',
+            xaxis_title='Unlabelled Data (log)',
+            yaxis_title='Labelled Data (log)',
             showlegend=False,
             width=800,
             height=600
