@@ -222,12 +222,6 @@ with tab1:
         st.header("Data")
         st.dataframe(df_res)
 
-    except FileNotFoundError:
-        st.error('Error: `resource_distribution_with_speakers.csv` not found.')
-    st.header("GMM Analysis")
-    fig_original, _, _ = run_gmm_analysis("c:\\Users\\kpsst\\Desktop\\Uni\\Linguistics in Modern NLP\\LingNLP\\taxonomy_original_fullnames.csv", "taxonomy_original_fullnames.csv")
-    if fig_original:
-        st.pyplot(fig_original)
 
 with tab2:
     st.header("Our taxonomy (all 7500 languages)")
@@ -333,12 +327,6 @@ with tab2:
         st.header("Data")
         st.dataframe(df_all)
 
-    except FileNotFoundError:
-        st.error('Error: `resource_distribution_with_speakers_and_all_languages.csv` not found.')
-    st.header("GMM Analysis")
-    fig_all7500, _, _ = run_gmm_analysis("c:\\Users\\kpsst\\Desktop\\Uni\\Linguistics in Modern NLP\\LingNLP\\taxonomy_all7500_fullnames.csv", "taxonomy_all7500_fullnames.csv")
-    if fig_all7500:
-        st.pyplot(fig_all7500)
 
 with tab3:
     st.header("Taxonomy Comparison (Full Names)")
