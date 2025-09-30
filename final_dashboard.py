@@ -116,7 +116,7 @@ st.set_page_config(layout="wide")
 
 st.title('Language Resource Analysis Dashboard')
 
-tab1, tab2, tab3, tab4 = st.tabs(["Our taxonomy (only languages with resources)", "Our taxonomy (all 7500 languages)", "Taxonomy Comparison (Full Names)", "Taxonomy Comparison (Tags)"])
+tab1, tab2, tab3 = st.tabs(["Our taxonomy (only languages with resources)", "Our taxonomy (all 7500 languages)", "Taxonomy Comparison (Full Names)"])
 
 with tab1:
     st.header("Our taxonomy (only languages with resources)")
@@ -412,71 +412,3 @@ with tab3:
 
     df1_comp2, df2_comp2 = load_comparison_2_data()
     display_comparison("2) Our Taxonomy vs. Joshi et al. (All 7500 Languages)", df1_comp2, df2_comp2, "comp2", show_filtered_graphs=False)
-
-with tab4:
-    st.header("Taxonomy Comparison (Tags)")
-
-    # --- Comparison 3 ---
-    @st.cache_data
-    def load_comparison_3_data():
-        try:
-            df1 = pd.read_csv('taxonomy_original_tags.csv')
-            df1 = df1[['Language ID', 'Cluster']]
-            df1.columns = ['language', 'cluster_1']
-            df1['language'] = df1['language'].str.lower()
-        except FileNotFoundError:
-            st.error('Error: `taxonomy_original_tags.csv` not found.')
-            return None, None
-
-        try:
-            with open('lang2tax_iso_from_languagecodes.txt', 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-            
-            data = []
-            for line in lines:
-                try:
-                    lang, cluster = line.strip().rsplit(',', 1)
-                    data.append({'language': lang.lower(), 'cluster_2': int(cluster)})
-                except ValueError:
-                    pass
-            df2 = pd.DataFrame(data)
-        except FileNotFoundError:
-            st.error('Error: `lang2tax_iso_from_languagecodes.txt` not found.')
-            return None, None
-            
-        return df1, df2
-
-    df1_comp3, df2_comp3 = load_comparison_3_data()
-    display_comparison("3) Our Taxonomy vs. Joshi et al. (Language Tags)", df1_comp3, df2_comp3, "comp3", show_filtered_graphs=True)
-
-    # --- Comparison 4 ---
-    @st.cache_data
-    def load_comparison_4_data():
-        try:
-            df1 = pd.read_csv('taxonomy_all7500_tags.csv', header=None)
-            df1.columns = ['language', 'cluster_1']
-            df1['language'] = df1['language'].str.lower()
-        except FileNotFoundError:
-            st.error('Error: `taxonomy_all7500_tags.csv` not found.')
-            return None, None
-
-        try:
-            with open('lang2tax_iso_from_languagecodes.txt', 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-            
-            data = []
-            for line in lines:
-                try:
-                    lang, cluster = line.strip().rsplit(',', 1)
-                    data.append({'language': lang.lower(), 'cluster_2': int(cluster)})
-                except ValueError:
-                    pass
-            df2 = pd.DataFrame(data)
-        except FileNotFoundError:
-            st.error('Error: `lang2tax_iso_from_languagecodes.txt` not found.')
-            return None, None
-            
-        return df1, df2
-
-    df1_comp4, df2_comp4 = load_comparison_4_data()
-    display_comparison("4) Our Taxonomy vs. Joshi et al. (All 7500 Tags)", df1_comp4, df2_comp4, "comp4", show_filtered_graphs=False)
