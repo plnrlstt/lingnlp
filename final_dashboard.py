@@ -41,6 +41,8 @@ def display_comparison(title, df1, df2, key_prefix, show_filtered_graphs=True):
             cluster2_counts = df2['cluster_2'].value_counts().reset_index()
             cluster2_counts.columns = ['Cluster', 'Count']
             fig2 = px.bar(cluster2_counts, x='Cluster', y='Count', title='Languages per Cluster in Joshi et al.\'s (2020) taxonomy')
+            fig2.update_layout(xaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')),
+                               yaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')))
             st.plotly_chart(fig2, use_container_width=True, key=f"{key_prefix}_2")
 
         with col2:
@@ -48,6 +50,8 @@ def display_comparison(title, df1, df2, key_prefix, show_filtered_graphs=True):
             cluster1_counts = df1['cluster_1'].value_counts().reset_index()
             cluster1_counts.columns = ['Cluster', 'Count']
             fig1 = px.bar(cluster1_counts, x='Cluster', y='Count', title='Languages per Cluster in our taxonomy')
+            fig1.update_layout(xaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')),
+                               yaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')))
             st.plotly_chart(fig1, use_container_width=True, key=f"{key_prefix}_1")
 
         if show_filtered_graphs:
@@ -60,6 +64,8 @@ def display_comparison(title, df1, df2, key_prefix, show_filtered_graphs=True):
                 cluster2_counts_filtered = df2_filtered['cluster_2'].value_counts().reset_index()
                 cluster2_counts_filtered.columns = ['Cluster', 'Count']
                 fig4 = px.bar(cluster2_counts_filtered, x='Cluster', y='Count', title="Languages per Cluster in Joshi et al.'s (no 0)")
+                fig4.update_layout(xaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')),
+                                   yaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')))
                 st.plotly_chart(fig4, use_container_width=True, key=f"{key_prefix}_4")
 
             with col4:
@@ -68,6 +74,8 @@ def display_comparison(title, df1, df2, key_prefix, show_filtered_graphs=True):
                 cluster1_counts_filtered = df1_filtered['cluster_1'].value_counts().reset_index()
                 cluster1_counts_filtered.columns = ['Cluster', 'Count']
                 fig3 = px.bar(cluster1_counts_filtered, x='Cluster', y='Count', title='Languages per Cluster in our taxonomy (no class 0)')
+                fig3.update_layout(xaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')),
+                                   yaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')))
                 st.plotly_chart(fig3, use_container_width=True, key=f"{key_prefix}_3")
 
         st.subheader(f"Languages with Changed Clusters")
@@ -102,7 +110,8 @@ def display_comparison(title, df1, df2, key_prefix, show_filtered_graphs=True):
         change_summary.rename(columns={'change_direction': 'Direction', 'Average_Shift': 'Average Cluster Shift'}, inplace=True)
 
         fig_change = px.bar(change_summary, x='Direction', y='Percentage', title='Direction of Cluster Changes')
-        fig_change.update_yaxes(ticksuffix="%")
+        fig_change.update_yaxes(ticksuffix="%", tickfont=dict(color='black'), title_font=dict(color='black'))
+        fig_change.update_xaxes(tickfont=dict(color='black'), title_font=dict(color='black'))
         st.plotly_chart(fig_change, use_container_width=True, key=f"{key_prefix}_change_dir")
 
         st.write("Summary of Cluster Changes:")
@@ -216,7 +225,9 @@ with tab1:
             yaxis_title='Log of Labelled Resource Count',
             showlegend=False,
             width=800,
-            height=600
+            height=600,
+            xaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')),
+            yaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black'))
         )
         st.plotly_chart(fig_cluster_res, use_container_width=True)
         st.header("Data")
@@ -330,7 +341,9 @@ with tab2:
             yaxis_title='Log of Labelled Resource Count',
             showlegend=False,
             width=800,
-            height=600
+            height=600,
+            xaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black')),
+            yaxis=dict(tickfont=dict(color='black'), title_font=dict(color='black'))
         )
         st.plotly_chart(fig_cluster_all, use_container_width=True)
         st.header("Data")
