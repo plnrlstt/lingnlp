@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -6,8 +7,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 from scipy.spatial import ConvexHull
 from scipy.interpolate import splprep, splev
-from sklearn.mixture import GaussianMixture
-import matplotlib.pyplot as plt
+
 
 def format_speakers(count):
     if count >= 1_000_000_000:
@@ -212,8 +212,8 @@ with tab1:
 
         fig_cluster_res.update_layout(
             title='Language Resource Distribution with Clustering',
-            xaxis_title='Unlabelled Data (log)',
-            yaxis_title='Labelled Data (log)',
+            xaxis_title='Log of Unlabelled Resource Count',
+            yaxis_title='Log of Labelled Resource Count',
             showlegend=False,
             width=800,
             height=600
@@ -221,6 +221,15 @@ with tab1:
         st.plotly_chart(fig_cluster_res, use_container_width=True)
         st.header("Data")
         st.dataframe(df_res)
+
+    except FileNotFoundError:
+        st.error('Error: `resource_distribution_with_speakers.csv` not found.')
+    st.header("Statistics on Languages per Class")
+    try:
+        df_taxonomy = pd.read_csv('taxonomy_original_fullnames.csv', header=0)
+        st.dataframe(df_taxonomy['Cluster'].value_counts().reset_index().rename(columns={'index': 'Cluster', 'Cluster': 'Number of Languages'}))
+    except FileNotFoundError:
+        st.error("Error: `taxonomy_original_fullnames.csv` not found.")
 
 
 with tab2:
@@ -317,8 +326,8 @@ with tab2:
 
         fig_cluster_all.update_layout(
             title='Language Resource Distribution with Clustering (All Languages)',
-            xaxis_title='Unlabelled Data (log)',
-            yaxis_title='Labelled Data (log)',
+            xaxis_title='Log of Unlabelled Resource Count',
+            yaxis_title='Log of Labelled Resource Count',
             showlegend=False,
             width=800,
             height=600
@@ -326,6 +335,15 @@ with tab2:
         st.plotly_chart(fig_cluster_all, use_container_width=True)
         st.header("Data")
         st.dataframe(df_all)
+
+    except FileNotFoundError:
+        st.error('Error: `resource_distribution_with_speakers_and_all_languages.csv` not found.')
+    st.header("Statistics on Languages per Class")
+    try:
+        df_taxonomy = pd.read_csv('taxonomy_all7500_fullnames.csv', header=None, names=['language', 'cluster'])
+        st.dataframe(df_taxonomy['cluster'].value_counts().reset_index().rename(columns={'index': 'Cluster', 'cluster': 'Number of Languages'}))
+    except FileNotFoundError:
+        st.error("Error: `taxonomy_all7500_fullnames.csv` not found.")
 
 
 with tab3:
@@ -394,3 +412,71 @@ with tab3:
 
     df1_comp2, df2_comp2 = load_comparison_2_data()
     display_comparison("2) Our Taxonomy vs. Joshi et al. (All 7500 Languages)", df1_comp2, df2_comp2, "comp2", show_filtered_graphs=False)
+
+with tab4:
+    st.header("Taxonomy Comparison (Tags)")
+
+    # --- Comparison 3 ---
+    @st.cache_data
+    def load_comparison_3_data():
+        try:
+            df1 = pd.read_csv('taxonomy_original_tags.csv')
+            df1 = df1[['Language ID', 'Cluster']]
+            df1.columns = ['language', 'cluster_1']
+            df1['language'] = df1['language'].str.lower()
+        except FileNotFoundError:
+            st.error('Error: `taxonomy_original_tags.csv` not found.')
+            return None, None
+
+        try:
+            with open('lang2tax_iso_from_languagecodes.txt', 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            data = []
+            for line in lines:
+                try:
+                    lang, cluster = line.strip().rsplit(',', 1)
+                    data.append({'language': lang.lower(), 'cluster_2': int(cluster)})
+                except ValueError:
+                    pass
+            df2 = pd.DataFrame(data)
+        except FileNotFoundError:
+            st.error('Error: `lang2tax_iso_from_languagecodes.txt` not found.')
+            return None, None
+            
+        return df1, df2
+
+    df1_comp3, df2_comp3 = load_comparison_3_data()
+    display_comparison("3) Our Taxonomy vs. Joshi et al. (Language Tags)", df1_comp3, df2_comp3, "comp3", show_filtered_graphs=True)
+
+    # --- Comparison 4 ---
+    @st.cache_data
+    def load_comparison_4_data():
+        try:
+            df1 = pd.read_csv('taxonomy_all7500_tags.csv', header=None)
+            df1.columns = ['language', 'cluster_1']
+            df1['language'] = df1['language'].str.lower()
+        except FileNotFoundError:
+            st.error('Error: `taxonomy_all7500_tags.csv` not found.')
+            return None, None
+
+        try:
+            with open('lang2tax_iso_from_languagecodes.txt', 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            data = []
+            for line in lines:
+                try:
+                    lang, cluster = line.strip().rsplit(',', 1)
+                    data.append({'language': lang.lower(), 'cluster_2': int(cluster)})
+                except ValueError:
+                    pass
+            df2 = pd.DataFrame(data)
+        except FileNotFoundError:
+            st.error('Error: `lang2tax_iso_from_languagecodes.txt` not found.')
+            return None, None
+            
+        return df1, df2
+
+    df1_comp4, df2_comp4 = load_comparison_4_data()
+    display_comparison("4) Our Taxonomy vs. Joshi et al. (All 7500 Tags)", df1_comp4, df2_comp4, "comp4", show_filtered_graphs=False)
